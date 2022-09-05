@@ -13,14 +13,14 @@ Pre-build OS image for OrangePi zero SBC to support FYSETC boards like `Spider-k
 
 Different motherboard need different configurations, check the details on below links.
 
-[Spider-King407](https://github.com/FYSETC/FYSETC-SPIDER-KING/tree/main/OS)
+Spider-King([github](https://github.com/FYSETC/FYSETC-SPIDER-KING/tree/main/OS) [国内](http://git.t.ecoaas.com/FYSETC/FYSETC-SPIDER-KING/src/branch/main/OS))
 
-[Spider](https://github.com/FYSETC/FYSETC-SPIDER/tree/main/OS)
+Spider ([github](https://github.com/FYSETC/FYSETC-SPIDER/tree/main/OS) [国内](http://git.t.ecoaas.com/FYSETC/FYSETC-SPIDER/src/branch/main/OS))
 
-[S6](https://github.com/FYSETC/FYSETC-S6/tree/main/OS)
+S6 ([github](https://github.com/FYSETC/FYSETC-S6/tree/main/OS) [国内](http://git.t.ecoaas.com/FYSETC/FYSETC-S6/src/branch/main/OS))
 
-[R4](https://github.com/FYSETC/FYSETC-R4/tree/main/OS)
+R4 ([github](https://github.com/FYSETC/FYSETC-R4/tree/main/OS) [国内](http://git.t.ecoaas.com/FYSETC/FYSETC-R4/src/branch/main/OS))
 
-[Cheetah2.0](https://github.com/FYSETC/FYSETC-Cheetah-v2/tree/main/OS)
+Cheetah2.0 ([github](https://github.com/FYSETC/FYSETC-Cheetah-v2/tree/main/OS) [国内](http://git.t.ecoaas.com/FYSETC/FYSETC-Cheetah-v2/src/branch/main/OS))
 
-[Cheetah1.2](https://github.com/FYSETC/FYSETC-Cheetah/tree/master/OS)
+Cheetah1.2 ([github](https://github.com/FYSETC/FYSETC-Cheetah/tree/master/OS) [国内](http://git.t.ecoaas.com/FYSETC/FYSETC-Cheetah/src/branch/master/OS))
